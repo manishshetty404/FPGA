@@ -1,0 +1,38 @@
+# Compile of AAC2M1H1.vhd was successful.
+# Compile of AAC2M1H1_tb.vhdp was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of AAC2M1H1.vhd was successful.
+# Compile of AAC2M1H1_tb.vhdp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 22:09:16 on Feb 21,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.fulladd(behavioral)
+run -all
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1h1_tb
+add wave -position insertpoint  \
+sim:/aac2m1h1_tb/a_tb \
+sim:/aac2m1h1_tb/b_tb \
+sim:/aac2m1h1_tb/cin_tb \
+sim:/aac2m1h1_tb/sum_tb \
+sim:/aac2m1h1_tb/cout_tb
+run -all
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: This simulation is complete
+#    Time: 100 ns  Iteration: 0  Instance: /aac2m1h1_tb
+# End time: 22:13:47 on Feb 21,2026, Elapsed time: 0:04:31
+# Errors: 0, Warnings: 1

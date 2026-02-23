@@ -1,0 +1,100 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eaac2m1p3_tb
+Z0 w1771687723
+Z1 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 fQPIgHhiDaHPI@GGmF4c92
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 1
+Z6 dC:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3
+Z7 8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3_tb.vhdp
+Z8 FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3_tb.vhdp
+l0
+L54 1
+VB5zk^5KRo]kjB:^>^>an41
+!s100 CVRz_NC>c:Df^6PL7[bX21
+Z9 OV;C;2020.1;71
+32
+Z10 !s110 1771689809
+!i10b 1
+Z11 !s108 1771689809.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3_tb.vhdp|
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3_tb.vhdp|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 11 aac2m1p3_tb 0 22 B5zk^5KRo]kjB:^>^>an41
+!i122 1
+l136
+L62 180
+Vcg:neH4BUIaP[>V9]h8^]1
+!s100 Mg0`aKC@XjR75o@OZHiW52
+R9
+!i119 1
+32
+R10
+!i10b 1
+R11
+R12
+Z15 !s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3_tb.vhdp|
+!i113 1
+R13
+R14
+Efind_errors
+Z16 w1771688475
+R4
+R5
+!i122 0
+R6
+Z17 8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3.vhd
+Z18 FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3.vhd
+l0
+L45 1
+VV6NSZoA6nhTTlPKWAh_gm3
+!s100 W@RX1BAc0;;kYa@P]YcnH1
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3.vhd|
+Z20 !s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module1_Assignment2/AAC2M1P3/AAC2M1P3.vhd|
+!i113 1
+R13
+R14
+Anot_good
+R4
+R5
+DEx4 work 11 find_errors 0 22 V6NSZoA6nhTTlPKWAh_gm3
+!i122 0
+l53
+L52 11
+V4QCDMe6<fEA1cQPhIT6F42
+!s100 Fkg8n;Hz7ThI1Jj^[ZNLW3
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R13
+R14
