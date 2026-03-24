@@ -1,0 +1,46 @@
+# Compile of AAC2M2P1.vhd was successful.
+# Compile of AAC2M2P1_tb.vhdp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.aac2m2p1_tb
+# vsim work.aac2m2p1_tb 
+# Start time: 10:26:39 on Feb 25,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m2p1_tb(behavioral)
+# Loading work.aac2m2p1(behavioral)
+#  Trace back: bad window path name ".#main_pane.#main_pane#project.#main_pane#project#mBar.#main_pane#project#mBar#file.#main_pane#project#mBar#file#recent_projects"
+#     while executing
+# "bindtags $w"
+#     (procedure "mtiBalloon::_mtiBalloon" line 7)
+#     invoked from within
+# "mtiBalloon::_mtiBalloon .#main_pane.#main_pane#project.#main_pane#project#mBar.#main_pane#project#mBar#file.#main_pane#project#mBar#file#recent_projec..."
+#     ("eval" body line 1)
+#     invoked from within
+# "eval [linsert $args 0 mtiBalloon::_mtiBalloon $w $msg]"
+#     (procedure "mtiBalloon" line 2)
+#     invoked from within
+# "mtiBalloon $real_menu "-" -offdelay 0 -motionactive  -getmsgcb [list ::Transcript::showFullPath $projs]"
+#     (procedure "Transcript::recentproj" line 15)
+#     invoked from within
+# "Transcript::recentproj .main_pane.project.mBar.file.recent_projects"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $post_cmd"
+#     (procedure "::Vsimmenu::DefaultMenuPostCmd" line 41)
+#     invoked from within
+# "::Vsimmenu::DefaultMenuPostCmd .main_pane.project.mBar.file.recent_projects {Transcript::recentproj .main_pane.project.mBar.file.recent_projects} SetM..."
+#     (menu preprocess)
+#    <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {bad window path name ".#main_pane.#main_pane#project.#main_pane#project#mBar.#main_pane#project#mBar#file.#main_pane#project#mBar#file#recent_projects"}
+#    <1:eval:1: ::tk::dialog::error::bgerror {bad window path name ".#main_pane.#main_pane#project.#main_pane#project#mBar.#main_pane#project#mBar#file.#main_pane#project#mBar#file#recent_projects"}
+run -all
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m2p1_tb/Counter
+# ** Note: This simulation is complete
+#    Time: 525 ns  Iteration: 0  Instance: /aac2m2p1_tb
+# End time: 10:30:17 on Feb 25,2026, Elapsed time: 0:03:38
+# Errors: 0, Warnings: 6

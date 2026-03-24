@@ -1,0 +1,22 @@
+# Compile of AAC2M2P2.vhd was successful.
+# Compile of AAC2M2P2_tb.vhdp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.aac2m2p2_tb
+# vsim work.aac2m2p2_tb 
+# Start time: 20:33:59 on Feb 26,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.numeric_bit(body)
+# Loading ieee.numeric_bit_unsigned(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.aac2m2p2_tb(behavioral)
+# Loading work.ram128_32(behavioral)
+run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m2p2_tb/RAM_Test
+# ** Note: This simulation is complete
+#    Time: 513135 ns  Iteration: 0  Instance: /aac2m2p2_tb
+# End time: 21:17:38 on Feb 26,2026, Elapsed time: 0:43:39
+# Errors: 0, Warnings: 6

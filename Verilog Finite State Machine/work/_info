@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M4P3_tb
+!s110 1772547946
+!i10b 1
+!s100 8P@k0_@0hfN;CF_dFa28J0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1_?e;:`XYF<kGe^oJPafH2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine
+w1772547749
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3_tb.vp
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3_tb.vp
+!i122 1
+L0 65 52
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1772547946.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p3_tb
+vFSM
+!s110 1772547945
+!i10b 1
+!s100 gdEkNg;C7cf7hfTalek^T2
+R0
+ImOTYlgFW]k^^1AWaSjH`k1
+R1
+R2
+w1772547840
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3.v
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3.v
+!i122 0
+L0 1 50
+R3
+r1
+!s85 0
+31
+!s108 1772547945.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Finite State Machine/AAC2M4P3.v|
+!i113 1
+R4
+R5
+n@f@s@m

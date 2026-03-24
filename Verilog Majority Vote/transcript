@@ -1,0 +1,15 @@
+# Compile of AAC2M3P4.v was successful.
+# Compile of AAC2M3P4_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M3P4_tb
+# vsim work.AAC2M3P4_tb 
+# Start time: 13:32:04 on Mar 03,2026
+# Loading work.AAC2M3P4_tb
+# Loading work.Majority
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp(115)
+#    Time: 90 ns  Iteration: 0  Instance: /AAC2M3P4_tb
+# Break in Module AAC2M3P4_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp
+# End time: 15:56:06 on Mar 03,2026, Elapsed time: 2:24:02
+# Errors: 0, Warnings: 5

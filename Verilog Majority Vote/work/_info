@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M3P4_tb
+Z0 !s110 1772524910
+!i10b 1
+!s100 S@bD9]cTjH>c3TIcFZ=KR3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=5^OCFc]5=0Co35Ghf]Ge3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z3 dC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote
+w1772524594
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp
+!i122 1
+L0 61 54
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1772524910.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4_tb.vp|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@a@c2@m3@p4_tb
+vMajority
+R0
+!i10b 1
+!s100 :ehjZ9bW^[IcFho]zogB>3
+R1
+I6]LaIMh>HfbBgKCT`>;Q`1
+R2
+R3
+w1772524751
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4.v
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4.v
+!i122 0
+L0 37 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Majority Vote/AAC2M3P4.v|
+!i113 1
+R6
+R7
+n@majority

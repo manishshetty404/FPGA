@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M3H1_tb
+!s110 1772533759
+!i10b 1
+!s100 [hJnlKTW[QOXD@fM1=7g[2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHTSfQzzQa9Wbn?fKW@^>81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder
+w1772533485
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp
+!i122 1
+L0 64 56
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1772533758.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@a@c2@m3@h1_tb
+vFullAdd4
+!s110 1772533758
+!i10b 1
+!s100 f37H?Q=TMSL`Unamd[z=i1
+R0
+IS7a`ZDSzi3NQl]0g@EU;`1
+R1
+R2
+w1772533696
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1.v
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1.v
+!i122 0
+L0 38 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1.v|
+!i113 1
+R5
+R6
+n@full@add4

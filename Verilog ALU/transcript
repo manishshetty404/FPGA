@@ -1,0 +1,15 @@
+# Compile of AAC2M4H1.v was successful.
+# Compile of AAC2M4H1_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M4H1_tb
+# vsim work.AAC2M4H1_tb 
+# Start time: 20:11:54 on Mar 03,2026
+# Loading work.AAC2M4H1_tb
+# Loading work.ALU
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog ALU/AAC2M4H1_tb.vp(118)
+#    Time: 1291 ns  Iteration: 0  Instance: /AAC2M4H1_tb
+# Break in Module AAC2M4H1_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog ALU/AAC2M4H1_tb.vp
+# End time: 20:14:48 on Mar 03,2026, Elapsed time: 0:02:54
+# Errors: 0, Warnings: 5

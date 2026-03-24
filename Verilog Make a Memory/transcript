@@ -1,0 +1,15 @@
+# Compile of AAC2M4P2.v was successful.
+# Compile of AAC2M4P2_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M4P2_tb
+# vsim work.AAC2M4P2_tb 
+# Start time: 16:27:29 on Mar 03,2026
+# Loading work.AAC2M4P2_tb
+# Loading work.RAM128x32
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp(122)
+#    Time: 153611 ns  Iteration: 0  Instance: /AAC2M4P2_tb
+# Break in Module AAC2M4P2_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp
+# End time: 16:29:53 on Mar 03,2026, Elapsed time: 0:02:24
+# Errors: 0, Warnings: 5

@@ -1,0 +1,15 @@
+# Compile of AAC2M3P3.v was successful.
+# Compile of AAC2M3P3_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M3P1_tb
+# vsim work.AAC2M3P1_tb 
+# Start time: 13:24:28 on Mar 03,2026
+# Loading work.AAC2M3P1_tb
+# Loading work.find_errors
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Correct Errors/AAC2M3P3_tb.vp(115)
+#    Time: 10250 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog Correct Errors/AAC2M3P3_tb.vp
+# End time: 13:29:25 on Mar 03,2026, Elapsed time: 0:04:57
+# Errors: 0, Warnings: 5

@@ -1,0 +1,60 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAAC2M4P2_tb
+!s110 1772535438
+!i10b 1
+!s100 ?mnff^@MAM>l0]bN26M1i2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGg;G6EF4joMf3TC;5m06C1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory
+w1772535224
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp
+!i122 1
+L0 65 56
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1772535438.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2_tb.vp|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@a@c2@m4@p2_tb
+vRAM128x32
+!s110 1772535437
+!i10b 1
+!s100 4IF9g3I]Fk]fNFhJ;F3oc3
+R0
+I6[GR@ebH4O>h[GA9bW]`92
+R1
+R2
+w1772535362
+8C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2.v
+FC:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2.v
+!i122 0
+L0 1 30
+R3
+r1
+!s85 0
+31
+!s108 1772535437.000000
+!s107 C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog Make a Memory/AAC2M4P2.v|
+!i113 1
+R4
+R5
+n@r@a@m128x32

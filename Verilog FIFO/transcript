@@ -1,0 +1,15 @@
+# Compile of AAC2M4H2.v was successful.
+# Compile of AAC2M4H2_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M4H2_tb
+# vsim work.AAC2M4H2_tb 
+# Start time: 10:01:32 on Mar 04,2026
+# Loading work.AAC2M4H2_tb
+# Loading work.FIFO8x9
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog FIFO/AAC2M4H2_tb.vp(129)
+#    Time: 20572 ns  Iteration: 0  Instance: /AAC2M4H2_tb
+# Break in Module AAC2M4H2_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module4/Verilog FIFO/AAC2M4H2_tb.vp
+# End time: 10:04:37 on Mar 04,2026, Elapsed time: 0:03:05
+# Errors: 0, Warnings: 5

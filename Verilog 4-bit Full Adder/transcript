@@ -1,0 +1,15 @@
+# Compile of AAC2M3H1.v was successful.
+# Compile of AAC2M3H1_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.AAC2M3H1_tb
+# vsim work.AAC2M3H1_tb 
+# Start time: 15:59:27 on Mar 03,2026
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp(120)
+#    Time: 5130 ns  Iteration: 0  Instance: /AAC2M3H1_tb
+# Break in Module AAC2M3H1_tb in file C:/Users/a/OneDrive/Desktop/FPGA coursera/Module3/Verilog 4-bit Full Adder/AAC2M3H1_tb.vp
+# End time: 16:11:51 on Mar 03,2026, Elapsed time: 0:12:24
+# Errors: 0, Warnings: 5
